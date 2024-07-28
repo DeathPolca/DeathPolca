@@ -1,4 +1,3 @@
-## Hi there 👋
 Zuo Zhirui
 
 zuozr@mail.ustc.edu.cn/191300087@smail.nju.edu.cn
