@@ -1,8 +1,8 @@
 Zuo Zhirui
 
-Email: zuozr@mail.ustc.edu.cn/191300087@smail.nju.edu.cn
+Email: zuozr@mail.ustc.edu.cn / 191300087@smail.nju.edu.cn
 
-Personal website: [website](https://deathpolca.github.io/)
+[Personal website](https://deathpolca.github.io/)
 <!--
 **DeathPolca/DeathPolca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
