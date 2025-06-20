@@ -1,5 +1,3 @@
-Zuo Zhirui
-
 Email: zuozr@mail.ustc.edu.cn / 191300087@smail.nju.edu.cn
 
 [Personal website](https://deathpolca.github.io/)
